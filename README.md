@@ -16,7 +16,9 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+You can start editing the page by modifyin
+[Screencast from 2024-06-08 12-14-04.webm](https://github.com/simarbagga401/todo-list-frontend/assets/67456870/656f30d1-9e1f-4553-a409-ff6d7e803c19)
+g `app/page.tsx`. The page auto-updates as you edit the file.
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
